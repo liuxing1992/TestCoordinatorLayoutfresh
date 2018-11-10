@@ -1,0 +1,1434 @@
+{
+  "boList": [
+    {
+      "data_src": "https://image.zymkcdn.com/file/news/000/001/951.jpg",
+      "href": "https://m.zymk.cn/2749/",
+      "title": "双面老师的夜间补习"
+    },
+    {
+      "data_src": "https://image.zymkcdn.com/file/news/000/001/949.jpg",
+      "href": "https://m.zymk.cn/2658/",
+      "title": "计时恋爱"
+    },
+    {
+      "data_src": "https://image.zymkcdn.com/file/news/000/001/947.jpg",
+      "href": "https://m.zymk.cn/2751/",
+      "title": "重生之影后养成计划"
+    },
+    {
+      "data_src": "https://image.zymkcdn.com/file/news/000/001/945.jpg",
+      "href": "https://m.zymk.cn/2824/",
+      "title": "天坑鹰猎"
+    },
+    {
+      "data_src": "https://image.zymkcdn.com/file/news/000/001/587.jpg",
+      "href": "https://m.zymk.cn/2262/",
+      "title": "吸血鬼男神"
+    }
+  ],
+  "itemList": [
+    {
+      "books": [
+        {
+          "chapter": "398话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/000/584.jpg-300x400",
+          "desc": "手握日月摘星辰",
+          "id": 584,
+          "star": "9.7",
+          "title": "神印王座",
+          "update_time": 0
+        },
+        {
+          "chapter": "117话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/000/101.jpg-300x400",
+          "desc": "少女杀手魂穿飒爽复仇",
+          "id": 101,
+          "star": "9.6",
+          "title": "凤逆天下",
+          "update_time": 0
+        },
+        {
+          "chapter": "141话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/001/076.jpg-300x400",
+          "desc": "黑客“私刑”网红主播",
+          "id": 1076,
+          "star": "9.0",
+          "title": "越界直播",
+          "update_time": 0
+        },
+        {
+          "chapter": "229话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/000/100.jpg-300x400",
+          "desc": "穿到三千年后玩机甲",
+          "id": 100,
+          "star": "9.5",
+          "title": "穿越西元3000后",
+          "update_time": 0
+        },
+        {
+          "chapter": "130话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/000/112.jpg-300x400",
+          "desc": "跨越仙妖的师徒恋",
+          "id": 112,
+          "star": "9.3",
+          "title": "花千骨",
+          "update_time": 0
+        },
+        {
+          "chapter": "38话下",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/000/136.jpg-300x400",
+          "desc": "这只妖宠太妖孽",
+          "id": 136,
+          "star": "9.4",
+          "title": "倾国妖宠",
+          "update_time": 0
+        },
+        {
+          "chapter": "118话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/001/853.jpg-300x400",
+          "desc": "中西医双料圣手凤羽珩",
+          "id": 1853,
+          "star": "9.7",
+          "title": "神医嫡女",
+          "update_time": 0
+        },
+        {
+          "chapter": "67话 十二年前",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/002/446.jpg-300x400",
+          "desc ": "大唐皇家惊心秘案",
+          "id": 2446,
+          "star": "9.6",
+          "title": "簪中录",
+          "update_time": 0
+        },
+        {
+          "chapter": "28话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/000/027.jpg-300x400",
+          "desc": "魂穿+性转，有点带感",
+          "id": 27,
+          "star": "9.4",
+          "title": "逆转木兰辞",
+          "update_time": 0
+        },
+        {
+          "chapter": "28话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/000/115.jpg-300x400",
+          "desc": "我和人妖闺蜜追夫记",
+          "id": 115,
+          "star": "9.5",
+          "title": "璇玑辞",
+          "update_time": 0
+        },
+        {
+          "chapter": "118话1",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/000/145.jpg-300x400",
+          "desc": "菜鸟也能问鼎修真之巅",
+          "id": 145,
+          "star": "9.6",
+          "title": "风起苍岚",
+          "update_time": 0
+        },
+        {
+          "chapter": "45话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/001/934.jpg-300x400",
+          "desc": "咱家快递业务遍三界",
+          "id": 1934,
+          "star": "9.1",
+          "title": "重生之我在三界送快递",
+          "update_time": 0
+        },
+        {
+          "chapter": "118话 方舟",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/001/519.jpg-300x400",
+          "desc": "土河星的逃生计划",
+          "id": 1519,
+          "star": "9.0",
+          "title": "星元孤儿",
+          "update_time": 0
+        },
+        {
+          "chapter": "147话2",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/000/146.jpg-300x400",
+          "desc": "三个女人和皇帝的纠葛",
+          "id": 146,
+          "star": "9.4",
+          "title": "妃夕妍雪",
+          "update_time": 0
+        }
+      ],
+      "href": "https://m.zymk.cn/book/7.html",
+      "icon": 2131427404,
+      "icons": [
+        2131427402,
+        2131427401,
+        2131427403,
+        2131427400,
+        2131427399,
+        2131427404
+      ],
+      "summary": "独家精品私人定制",
+      "title": "独家",
+      "type": 0
+    },
+    {
+      "books": [
+        {
+          "chapter": "28话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/002/674.jpg-300x400",
+          "desc": "阎王太爱我了怎么办？",
+          "id": 2674,
+          "star": "9.3",
+          "title": "爱美之地狱学府",
+          "update_time": 0
+        },
+        {
+          "chapter": "30话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/002/687.jpg-300x400",
+          "desc": "我怎么知道谁对我更好",
+          "id": 2687,
+          "star": "9.3",
+          "title": "乱世帝后",
+          "update_time": 0
+        },
+        {
+          "chapter": "47话 变态",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/002/292.jpg-300x400",
+          "desc": "性感教主在线奶娃",
+          "id": 2292,
+          "star": "9.2",
+          "title": "攻略百分百",
+          "update_time": 0
+        },
+        {
+          "chapter": "16话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/002/697.jpg-300x400",
+          "desc": "人妖殊途，爱恨痴缠",
+          "id": 2697,
+          "star": "9.4",
+          "title": "红妆异事",
+          "update_time": 0
+        },
+        {
+          "chapter": "14话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/002/705.jpg-300x400",
+          "desc": "给我一个吻可以不可以",
+          "id": 2705,
+          "star": "9.5",
+          "title": "One Kiss A Day",
+          "update_time": 0
+        },
+        {
+          "chapter": "20话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/002/658.jpg-300x400",
+          "desc": "三千界，只愿厮守",
+          "id": 2658,
+          "star": "9.5",
+          "title": "计时恋爱",
+          "update_time": 0
+        },
+        {
+          "chapter": "19话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/002/620.jpg-300x400",
+          "desc": "美丽的鲜花需要呵护",
+          "id": 2620,
+          "star": "9.2",
+          "title": "护花使者4次方",
+          "update_time": 0
+        },
+        {
+          "chapter": "21话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/002/698.jpg-300x400",
+          "desc": "懵懂的初恋和热血的追",
+          "id": 2698,
+          "star": "9.3",
+          "title": "浅夏初雨",
+          "update_time": 0
+        },
+        {
+          "chapter": "17话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/002/696.jpg-300x400",
+          "desc": "与纸片人的亲密接触",
+          "id": 2696,
+          "star": "9.6",
+          "title": "男神恋爱系统",
+          "update_time": 0
+        },
+        {
+          "chapter": "15话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/002/675.jpg-300x400",
+          "desc": "失恋之事，神明来罩？",
+          "id": 2675,
+          "star": "8.9",
+          "title": "失恋神明",
+          "update_time": 0
+        },
+        {
+          "chapter": "30话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/002/699.jpg-300x400",
+          "desc": "奇葩门派迎来绝色美男",
+          "id": 2699,
+          "star": "9.4",
+          "title": "孽徒在上",
+          "update_time": 0
+        },
+        {
+          "chapter": "18话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/002/678.jpg-300x400",
+          "desc": "史上最雷剧情各路渣男",
+          "id": 2678,
+          "star": "9.4",
+          "title": "打雷少女",
+          "update_time": 0
+        },
+        {
+          "chapter": "28话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/002/619.jpg-300x400",
+          "desc": "小鬼爱上阎王",
+          "id": 2619,
+          "star": "9.2",
+          "title": "沉舟录",
+          "update_time": 0
+        }
+      ],
+      "href": "https://m.zymk.cn/book/6.html",
+      "icon": 2131427400,
+      "icons": [
+        2131427402,
+        2131427401,
+        2131427403,
+        2131427400,
+        2131427399,
+        2131427404
+      ],
+      "summary": "本季新作火钳刘明",
+      "title": "新番",
+      "type": 0
+    },
+    {
+      "books": [
+        {
+          "chapter": "76话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/001/270.jpg-300x400",
+          "desc": "言灵师的麻烦",
+          "id": 1270,
+          "star": "9.3",
+          "title": "妖绘录",
+          "update_time": 0
+        },
+        {
+          "chapter": "144话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/001/851.jpg-300x400",
+          "desc": "边境少年的修真之路",
+          "id": 1851,
+          "star": "9.6",
+          "title": "修真四万年",
+          "update_time": 0
+        },
+        {
+          "chapter": "116话 留下来",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/001/574.jpg-300x400",
+          "desc": "总裁追着要亲亲",
+          "id": 1574,
+          "star": "9.4",
+          "title": "请别偷亲我",
+          "update_time": 0
+        },
+        {
+          "chapter": "174话2",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/000/102.jpg-300x400",
+          "desc": "承接各类前世的委托",
+          "id": 102,
+          "star": "9.5",
+          "title": "寻找前世之旅",
+          "update_time": 0
+        },
+        {
+          "chapter": "191话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/000/074.jpg-300x400",
+          "desc": "颠覆西游记的现代封神",
+          "id": 74,
+          "star": "9.2",
+          "title": "封神斗战榜",
+          "update_time": 0
+        },
+        {
+          "chapter": "45话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/001/934.jpg-300x400",
+          "desc": "咱家快递业务遍三界",
+          "id": 1934,
+          "star": "9.1",
+          "title": "重生之我在三界送快递",
+          "update_time": 0
+        },
+        {
+          "chapter": "81话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/001/264.jpg-300x400",
+          "desc": "鬼怪魔幻大片",
+          "id": 1264,
+          "star": "9.2",
+          "title": "百夜灵异录",
+          "update_time": 0
+        },
+        {
+          "chapter": "398话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/000/584.jpg-300x400",
+          "desc": "手握日月摘星辰",
+          "id": 584,
+          "star": "9.7",
+          "title": "神印王座",
+          "update_time": 0
+        },
+        {
+          "chapter": "68话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/002/366.jpg-300x400",
+          "desc": "一场穿越成就一段佳话",
+          "id": 2366,
+          "star": "9.5",
+          "title": "镜花传说",
+          "update_time": 0
+        },
+        {
+          "chapter": "164话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/000/609.jpg-300x400",
+          "desc": "斗罗大陆新生代七怪",
+          "id": 609,
+          "star": "9.7",
+          "title": "绝世唐门",
+          "update_time": 0
+        },
+        {
+          "chapter": "130话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/000/112.jpg-300x400",
+          "desc": "跨越仙妖的师徒恋",
+          "id": 112,
+          "star": "9.3",
+          "title": "花千骨",
+          "update_time": 0
+        },
+        {
+          "chapter": "117话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/000/101.jpg-300x400",
+          "desc": "少 女杀手魂穿飒爽复仇",
+          "id": 101,
+          "star": "9.6",
+          "title": "凤逆天下",
+          "update_time": 0
+        },
+        {
+          "chapter": "106话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/000/886.jpg-300x400",
+          "desc": "他还在，她还爱",
+          "id": 886,
+          "star": "9.5",
+          "title": "三生三世十里桃花",
+          "update_time": 0
+        },
+        {
+          "chapter": "186话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/001/615.jpg-300x400",
+          "desc": "重生的武神降世",
+          "id": 1615,
+          "star": "9.6",
+          "title": "武神主宰",
+          "update_time": 0
+        }
+      ],
+      "href": "https://m.zymk.cn/book/1.html",
+      "icon": 2131427402,
+      "icons": [
+        2131427402,
+        2131427401,
+        2131427403,
+        2131427400,
+        2131427399,
+        2131427404
+      ],
+      "summary": "永不褪色的记忆",
+      "title": "经典",
+      "type": 0
+    },
+    {
+      "books": [
+        {
+          "chapter": "31话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/002/618.jpg-300x400",
+          "desc": "七年后我依旧爱你",
+          "id": 2618,
+          "star": "9.5",
+          "title": "隐婚蜜爱：偏执老公宠上瘾",
+          "update_time": 0
+        },
+        {
+          "chapter": "27话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/002/737.jpg-300x400",
+          "desc": "留学归来逆袭娱乐圈",
+          "id": 2737,
+          "star": "9.3",
+          "title": "逆袭影后带球跑",
+          "update_time": 0
+        },
+        {
+          "chapter": "49话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/002/378.jpg-300x400",
+          "desc": "复仇总裁相爱相杀",
+          "id": 2378,
+          "star": "9.3",
+          "title": "撒旦总裁莫虐恋",
+          "update_time": 0
+        },
+        {
+          "chapter": "停更公告",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/001/524.jpg-300x400",
+          "desc": "小小萌神的捕心计划~",
+          "id": 1524,
+          "star": "9.1",
+          "title": "霸道忠犬寻爱记",
+          "update_time": 0
+        },
+        {
+          "chapter": "69话 论坏人的自我修养",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/002/183.jpg-300x400",
+          "desc": "豪门总裁的未婚妻",
+          "id": 2183,
+          "star": "9.5",
+          "title": "豪门BOSS天价妻",
+          "update_time": 0
+        },
+        {
+          "chapter": "23话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/002/749.jpg-300x400",
+          "desc": "在少主房间沉迷学习",
+          "id": 2749,
+          "star": "9.4",
+          "title": "双面老师的夜间补习",
+          "update_time": 0
+        },
+        {
+          "chapter": "30话 惩罚",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/002/545.jpg-300x400",
+          "desc": "做总裁的女人！",
+          "id": 2545,
+          "star": "9.4",
+          "title": "总裁保镖很御姐",
+          "update_time": 0
+        },
+        {
+          "chapter": "113话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/002/262.jpg-300x400",
+          "desc": "居然给吸血鬼生猴子",
+          "id": 2262,
+          "star": "9.5",
+          "title": "吸血鬼男神",
+          "update_time": 0
+        },
+        {
+          "chapter": "21话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/002/632.jpg-300x400",
+          "desc": "总裁的专属甜点！",
+          "id": 2632,
+          "star": "9.3",
+          "title": "梦魇总裁的专属甜点",
+          "update_time": 0
+        },
+        {
+          "chapter": "25话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/002/742.jpg-300x400",
+          "desc": "猎人与猎物的爱情游戏",
+          "id": 2742,
+          "star": "9.4",
+          "title": "渣男总裁别想逃",
+          "update_time": 0
+        },
+        {
+          "chapter": "52话 温柔的哥哥",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/002/449.jpg-300x400",
+          "desc": "他们到底喜欢我什么",
+          "id": 2449,
+          "star": "9.4",
+          "title": "全世界总裁爱上我",
+          "update_time": 0
+        },
+        {
+          "chapter": "77话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/001/855.jpg-300x400",
+          "desc": "按下灵与肉的快门吧！",
+          "id": 1855,
+          "star": "9.4",
+          "title": "冷酷总裁的夏天",
+          "update_time": 0
+        },
+        {
+          "chapter": "43话 诱饵",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/002/491.jpg-300x400",
+          "desc": "陷入闺蜜的阴谋和旋涡",
+          "id": 2491,
+          "star": "9.7",
+          "title": "深海危情",
+          "update_time": 0
+        },
+        {
+          "chapter": "39话 究竟是谁",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/002/459.jpg-300x400",
+          "desc": "读档复活穿越成皇后",
+          "id": 2459,
+          "star": "9.4",
+          "title": "读档皇后",
+          "update_time": 0
+        }
+      ],
+      "href": "https://m.zymk.cn/book/10357.html",
+      "icon": 2131427403,
+      "icons": [
+        2131427402,
+        2131427401,
+        2131427403,
+        2131427400,
+        2131427399,
+        2131427404
+      ],
+      "summary": "女人，你在玩火",
+      "title": "霸总",
+      "type": 0
+    },
+    {
+      "books": [
+        {
+          "chapter": "15话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/002/569.jpg-300x400",
+          "desc": "末日危机，丧尸蔓延",
+          "id": 2569,
+          "star": "9.1",
+          "title": "末日狂途",
+          "update_time": 0
+        },
+        {
+          "chapter": "9月21停更通知",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/002/461.jpg-300x400",
+          "desc": "离奇惨案真相如何",
+          "id": 2461,
+          "star": "9.2",
+          "title": "皇城烟三引",
+          "update_time": 0
+        },
+        {
+          "chapter": "35话 梦中少年",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/002/240.jpg-300x400",
+          "desc": "今天的阳气要渡给谁呢",
+          "id": 2240,
+          "star": "9.4",
+          "title": "灵使插班生",
+          "update_time": 0
+        },
+        {
+          "chapter": "15话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/002/570.jpg-300x400",
+          "desc": "我的心脏为你而跳动",
+          "id": 2570,
+          "star": "9.2",
+          "title": "芯动危机",
+          "update_time": 0
+        },
+        {
+          "chapter": "39话 究竟是谁",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/002/459.jpg-300x400",
+          "desc": "读档复活穿越成皇后",
+          "id": 2459,
+          "star": "9.4",
+          "title": "读档皇后",
+          "update_time": 0
+        },
+        {
+          "chapter": "中秋特辑",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/002/423.jpg-300x400",
+          "desc": "猪猪女孩恋成记",
+          "id": 2423,
+          "star": "9.4",
+          "title": "我的徒弟是只猪",
+          "update_time": 0
+        },
+        {
+          "chapter": "55话 我变成这样都是你害的",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/002/485.jpg-300x400",
+          "desc": "双面白领的恋爱生活",
+          "id": 2485,
+          "star": "9.2",
+          "title": "写字楼的夜女王",
+          "update_time": 0
+        },
+        {
+          "chapter": "22话 陌生女人",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/002/462.jpg-300x400",
+          "desc": "真·猫系男友攻略大全",
+          "id": 2462,
+          "star": "9.6",
+          "title": "猫咪男友养成指南",
+          "update_time": 0
+        },
+        {
+          "chapter": "77话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/001/985.jpg-300x400",
+          "desc": "白莲花的戏精之路",
+          "id": 1985,
+          "star": "9.3",
+          "title": "相公我想吃掉你！",
+          "update_time": 0
+        },
+        {
+          "chapter": "89话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/000/820.jpg-300x400",
+          "desc": "小不点的成长历险记",
+          "id": 820,
+          "star": "9.7",
+          "title": "完美世界",
+          "update_time": 0
+        },
+        {
+          "chapter": "81话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/001/315.jpg-300x400",
+          "desc": "降妖除魔数钟馗",
+          "id": 1315,
+          "star": "9.4",
+          "title": "伏魔天师",
+          "update_time": 0
+        },
+        {
+          "chapter": "9月23日请假条",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/002/469.jpg-300x400",
+          "desc": "与实验对象坠入爱河",
+          "id": 2469,
+          "star": "9.2",
+          "title": "这个AI不太冷",
+          "update_time": 0
+        },
+        {
+          "chapter": "56话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/001/557.jpg-300x400",
+          "desc": "少年寻求解脱之道",
+          "id": 1557,
+          "star": "8.9",
+          "title": "喃松",
+          "update_time": 0
+        },
+        {
+          "chapter": "25话 皇子夺嫡",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/002/534.jpg-300x400",
+          "desc": "皇帝为热搜痴狂",
+          "id": 2534,
+          "star": "9.3",
+          "title": "陛下！热点蹭不蹭",
+          "update_time": 0
+        }
+      ],
+      "href": "https://m.zymk.cn/book/5.html",
+      "icon": 2131427399,
+      "icons": [
+        2131427402,
+        2131427401,
+        2131427403,
+        2131427400,
+        2131427399,
+        2131427404
+      ],
+      "summary": "幻想　奇妙　时尚",
+      "title": "幻",
+      "type": 0
+    },
+    {
+      "books": [
+        {
+          "chapter": "30话 圆满结局",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/002/473.jpg-300x400",
+          "desc": "小公主手撕小妖女",
+          "id": 2473,
+          "star": "9.1",
+          "title": "谁还不是个小公主",
+          "update_time": 0
+        },
+        {
+          "chapter": "51话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/001/816.jpg-300x400",
+          "desc": "学霸重生变美女",
+          "id": 1816,
+          "star": "9.6",
+          "title": "逆袭的旋律之音",
+          "update_time": 0
+        },
+        {
+          "chapter": "37话 女人的嫉妒心",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/002/488.jpg-300x400",
+          "desc": "塑料姐妹，永不分家",
+          "id": 2488,
+          "star": "9.2",
+          "title": "塑料姐妹花",
+          "update_time": 0
+        },
+        {
+          "chapter": "52话 人生还是爱情",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/002/477.jpg-300x400",
+          "desc": "跟姐姐谈个正经恋爱吧",
+          "id": 2477,
+          "star": "9.4",
+          "title": "爱情练习生",
+          "update_time": 0
+        },
+        {
+          "chapter": "116话 留下来",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/001/574.jpg-300x400",
+          "desc": "总裁追着要亲亲",
+          "id": 1574,
+          "star": "9.4",
+          "title": "请别偷亲我",
+          "update_time": 0
+        },
+        {
+          "chapter": "48话 魔星君自有打算",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/001/797.jpg-300x400",
+          "desc": "一朝穿越错成男",
+          "id": 1797,
+          "star": "9.5",
+          "title": "元气少女俏将军",
+          "update_time": 0
+        },
+        {
+          "chapter": "67话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/001/254.jpg-300x400",
+          "desc": "追查哥哥死因的她",
+          "id": 1254,
+          "star": "9.1",
+          "title": "一剪澜裳",
+          "update_time": 0
+        },
+        {
+          "chapter": "26话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/002/626.jpg-300x400",
+          "desc": "用计为父平冤昭雪",
+          "id": 2626,
+          "star": "9.0",
+          "title": "桂殿秋",
+          "update_time": 0
+        },
+        {
+          "chapter": "68话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/002/366.jpg-300x400",
+          "desc": "一场穿越成就一段佳话",
+          "id": 2366,
+          "star": "9.5",
+          "title": "镜花传说",
+          "update_time": 0
+        },
+        {
+          "chapter": "39话 开party",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/002/454.jpg-300x400",
+          "desc": "我被男神疯狂追求了？",
+          "id": 2454,
+          "star": "9.4",
+          "title": "蓝颜祸水",
+          "update_time": 0
+        },
+        {
+          "chapter": "36话 组织的目的",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/002/497.jpg-300x400",
+          "desc": "民国的女装大佬设计师",
+          "id": 2497,
+          "star": "9.5",
+          "title": "绿石的设计师",
+          "update_time": 0
+        },
+        {
+          "chapter": "48话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/001/696.jpg-300x400",
+          "desc": "大大与爱豆的灵魂互换",
+          "id": 1696,
+          "star": "9.1",
+          "title": "我家爱豆有点怪",
+          "update_time": 0
+        },
+        {
+          "chapter": "51话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/002/279.jpg-300x400",
+          "desc": "兄妹二人针锋相对",
+          "id": 2279,
+          "star": "9.5",
+          "title": "我的校草不可能这么萌",
+          "update_time": 0
+        },
+        {
+          "chapter": "20话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/002/501.jpg-300x400",
+          "desc": "身边全是花美男",
+          "id": 2501,
+          "star": "9.4",
+          "title": "花美男护卫队",
+          "update_time": 0
+        }
+      ],
+      "href": "https://m.zymk.cn/book/3.html",
+      "icon": 2131427402,
+      "icons": [
+        2131427402,
+        2131427401,
+        2131427403,
+        2131427400,
+        2131427399,
+        2131427404
+      ],
+      "summary": "少女　爱情　萌化",
+      "title": "萌",
+      "type": 0
+    },
+    {
+      "books": [
+        {
+          "chapter": "45话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/001/950.jpg-300x400",
+          "desc": "神秘的占卜屋",
+          "id": 1950,
+          "star": "9.2",
+          "title": "抱紧我的小龙女",
+          "update_time": 0
+        },
+        {
+          "chapter": "53话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/001/371.jpg-300x400",
+          "desc": "隐藏在平常世界的秘密",
+          "id": 1371,
+          "star": "9.1",
+          "title": "山海异兽录",
+          "update_time": 0
+        },
+        {
+          "chapter": "71话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/002/190.jpg-300x400",
+          "desc": "妖和人傻傻分不清",
+          "id": 2190,
+          "star": "9.3",
+          "title": "通灵契约",
+          "update_time": 0
+        },
+        {
+          "chapter": "74话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/000/950.jpg-300x400",
+          "desc": "我变成了一台电冰箱",
+          "id": 950,
+          "star": "9.2",
+          "title": "毁灭世界的电冰箱",
+          "update_time": 0
+        },
+        {
+          "chapter": "128话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/001/281.jpg-300x400",
+          "desc": "游走在阴阳的世界",
+          "id": 1281,
+          "star": "9.2",
+          "title": "快递少女奇闻录",
+          "update_time": 0
+        },
+        {
+          "chapter": "55话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/001/690.jpg-300x400",
+          "desc": "两个世界的人重生",
+          "id": 1690,
+          "star": "9.1",
+          "title": "禁止穿越，诸君请回吧",
+          "update_time": 0
+        },
+        {
+          "chapter": "53话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/002/197.jpg-300x400",
+          "desc": "外星人开创大唐盛世！",
+          "id": 2197,
+          "star": "9.0",
+          "title": "钢铁大唐",
+          "update_time": 0
+        },
+        {
+          "chapter": "58话 鸿门宴后",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/001/392.jpg-300x400",
+          "desc": "战斗女神带我飞",
+          "id": 1392,
+          "star": "9.3",
+          "title": "我的战斗女神",
+          "update_time": 0
+        },
+        {
+          "chapter": "41话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/002/495.jpg-300x400",
+          "desc": "回归都市保护美女总裁",
+          "id": 2495,
+          "star": "9.3",
+          "title": "极品战兵在都市",
+          "update_time": 0
+        },
+        {
+          "chapter": "97话 功法指导1",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/001/357.jpg-300x400",
+          "desc": "穿越异世界",
+          "id": 1357,
+          "star": "9.2",
+          "title": "仙道魔侠",
+          "update_time": 0
+        },
+        {
+          "chapter": "60话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/001/236.jpg-300x400",
+          "desc": "异世界鬼怪在人界",
+          "id": 1236,
+          "star": "9.2",
+          "title": "时间之子",
+          "update_time": 0
+        },
+        {
+          "chapter": "60话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/001/429.jpg-300x400",
+          "desc": "神鬼妖怪谭",
+          "id": 1429,
+          "star": "9.1",
+          "title": "禁忌的幻之书",
+          "update_time": 0
+        },
+        {
+          "chapter": "38话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/001/302.jpg-300x400",
+          "desc": "同学是猫怎么办！急！",
+          "id": 1302,
+          "star": "9.2",
+          "title": "说了猫还没灭绝呢",
+          "update_time": 0
+        },
+        {
+          "chapter": "2季16话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/001/358.jpg-300x400",
+          "desc": "一个英雄的故事",
+          "id": 1358,
+          "star": "9.0",
+          "title": "替身英雄",
+          "update_time": 0
+        }
+      ],
+      "href": "https://m.zymk.cn/book/2.html",
+      "icon": 2131427401,
+      "icons": [
+        2131427402,
+        2131427401,
+        2131427403,
+        2131427400,
+        2131427399,
+        2131427404
+      ],
+      "summary": "热血　友情　奋斗",
+      "title": "燃",
+      "type": 0
+    },
+    {
+      "books": [
+        {
+          "chapter": "50话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/001/595.jpg-300x400",
+          "desc": "严肃但亲切的机器老师",
+          "id": 1595,
+          "star": "9.0",
+          "title": "外星人老师",
+          "update_time": 0
+        },
+        {
+          "chapter": "50话 转瞬之间",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/001/867.jpg-300x400",
+          "desc": "自卑少女的成长恋爱史",
+          "id": 1867,
+          "star": "9.5",
+          "title": "青春测试期",
+          "update_time": 0
+        },
+        {
+          "chapter": "21话 表演结束",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/002/479.jpg-300x400",
+          "desc": "宅女的逆袭之路",
+          "id": 2479,
+          "star": "9.4",
+          "title": "替身名模",
+          "update_time": 0
+        },
+        {
+          "chapter": "60话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/001/616.jpg-300x400",
+          "desc": "招惹了弟控是我的错吗",
+          "id": 1616,
+          "star": "9.1",
+          "title": "月夜香微来",
+          "update_time": 0
+        },
+        {
+          "chapter": "43话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/001/812.jpg-300x400",
+          "desc": "毁灭世界不成反成坑",
+          "id": 1812,
+          "star": "9.4",
+          "title": "反派BOSS掉进坑",
+          "update_time": 0
+        },
+        {
+          "chapter": "54话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/001/906.jpg-300x400",
+          "desc": "危险刺激的杀手世界",
+          "id": 1906,
+          "star": "9.2",
+          "title": "捡到一个女杀手",
+          "update_time": 0
+        },
+        {
+          "chapter": "12话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/002/625.jpg-300x400",
+          "desc": "被“男友”老家治愈了",
+          "id": 2625,
+          "star": "9.0",
+          "title": "一周女友",
+          "update_time": 0
+        },
+        {
+          "chapter": "35话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/002/188.jpg-300x400",
+          "desc": "阎王在二次元边缘试探",
+          "id": 2188,
+          "star": "9.3",
+          "title": "每天都能看见我妹妹在抽风",
+          "update_time": 0
+        },
+        {
+          "chapter": "15话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/002/543.jpg-300x400",
+          "desc": "收获爱情，成为巨星",
+          "id": 2543,
+          "star": "9.0",
+          "title": "金牌助演",
+          "update_time": 0
+        },
+        {
+          "chapter": "66话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/001/288.jpg-300x400",
+          "desc": "王爷的修仙小娇妻",
+          "id": 1288,
+          "star": "9.2",
+          "title": "妃常无良",
+          "update_time": 0
+        },
+        {
+          "chapter": "31话1 昨日的承诺",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/001/982.jpg-300x400",
+          "desc": "国民老公是条鱼？！",
+          "id": 1982,
+          "star": "9.3",
+          "title": "Go!海王子天团",
+          "update_time": 0
+        },
+        {
+          "chapter": "62话 澄清公告",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/002/242.jpg-300x400",
+          "desc": "等待王子迎接的三十岁",
+          "id": 2242,
+          "star": "9.4",
+          "title": "公主三十岁",
+          "update_time": 0
+        },
+        {
+          "chapter": "43话 诱饵",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/002/491.jpg-300x400",
+          "desc": "陷入闺蜜的阴谋和旋涡",
+          "id": 2491,
+          "star": "9.7",
+          "title": "深海危情",
+          "update_time": 0
+        },
+        {
+          "chapter": "85话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/000/097.jpg-300x400",
+          "desc": "不小心救了个神仙哥哥",
+          "id": 97,
+          "star": "9.2",
+          "title": "仙灵传",
+          "update_time": 0
+        }
+      ],
+      "href": "https://m.zymk.cn/book/4.html",
+      "icon": 2131427404,
+      "icons": [
+        2131427402,
+        2131427401,
+        2131427403,
+        2131427400,
+        2131427399,
+        2131427404
+      ],
+      "summary": "青春　梦想　勇气",
+      "title": "锐",
+      "type": 0
+    },
+    {
+      "books": [
+        {
+          "chapter": "最终话下",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/000/126.jpg-300x400",
+          "desc": "对校园暴力说不",
+          "id": 126,
+          "star": "9.4",
+          "title": "为自己而战",
+          "update_time": 0
+        },
+        {
+          "chapter": "25话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/001/457.jpg-300x400",
+          "desc": "青涩甜蜜的爱恋",
+          "id": 1457,
+          "star": "9.3",
+          "title": "恋爱插班生",
+          "update_time": 0
+        },
+        {
+          "chapter": "74话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/000/091.jpg-300x400",
+          "desc": "是按摩师还是小女神？",
+          "id": 91,
+          "star": "8.7",
+          "title": "女神的谜语",
+          "update_time": 0
+        },
+        {
+          "chapter": "35话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/001/868.jpg-300x400",
+          "desc": "冥夫大人守护我",
+          "id": 1868,
+          "star": "9.3",
+          "title": "红娘前男友",
+          "update_time": 0
+        },
+        {
+          "chapter": "35话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/001/876.jpg-300x400",
+          "desc": "都市妖宠奇谈",
+          "id": 1876,
+          "star": "9.3",
+          "title": "血魇妖宠",
+          "update_time": 0
+        },
+        {
+          "chapter": "172话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/000/105.jpg-300x400",
+          "desc": "贤者与魔王也能在一起",
+          "id": 105,
+          "star": "9.5",
+          "title": "加油大魔王！",
+          "update_time": 0
+        },
+        {
+          "chapter": "最终话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/000/523.jpg-300x400",
+          "desc": "从不失手的神秘组织",
+          "id": 523,
+          "star": "9.2",
+          "title": "雪影特遣组",
+          "update_time": 0
+        },
+        {
+          "chapter": "22话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/000/653.jpg-300x400",
+          "desc": "穿越三百年的恩怨情仇",
+          "id": 653,
+          "star": "8.8",
+          "title": "月华玫瑰杀",
+          "update_time": 0
+        },
+        {
+          "chapter": "最终话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/001/520.jpg-300x400",
+          "desc": "无限快穿恐怖世界",
+          "id": 1520,
+          "star": "92",
+          "title": "归档No.108",
+          "update_time": 0
+        },
+        {
+          "chapter": "97话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/001/432.jpg-300x400",
+          "desc": "三流小说家的成仙之路",
+          "id": 1432,
+          "star": "8.9",
+          "title": "修仙，修仙，你咋不上天",
+          "update_time": 0
+        },
+        {
+          "chapter": "80话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/001/858.jpg-300x400",
+          "desc": "千年蛇王调教呆萌女仆",
+          "id": 1858,
+          "star": "9.2",
+          "title": "蛇王大人的女仆",
+          "update_time": 0
+        },
+        {
+          "chapter": "54话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/000/094.jpg-300x400",
+          "desc": "谈恋爱也可以拯救地球",
+          "id": 94,
+          "star": "8.7",
+          "title": "毁灭世界的恋爱",
+          "update_time": 0
+        },
+        {
+          "chapter": "18话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/001/529.jpg-300x400",
+          "desc": "忠犬男友初养成",
+          "id": 1529,
+          "star": "8.6",
+          "title": "忠犬日记",
+          "update_time": 0
+        },
+        {
+          "chapter": "46话",
+          "chapter_id": 0,
+          "data_src": "https://image.zymkcdn.com/file/cover/000/000/083.jpg-300x400",
+          "desc": "录书人笔下的世间事",
+          "id": 83,
+          "star": "8.7",
+          "title": "幽篁惊梦",
+          "update_time": 0
+        }
+      ],
+      "href": "https://m.zymk.cn/book/8.html",
+      "icon": 2131427404,
+      "icons": [
+        2131427402,
+        2131427401,
+        2131427403,
+        2131427400,
+        2131427399,
+        2131427404
+      ],
+      "summary": "我们始终爱你",
+      "title": "完结",
+      "type": 0
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+    <com.example.admin.testcoordinatorlayoutfresh.view.ExpandableTextView2
+        android:id="@+id/expand_text_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <!--<TextView-->
+            <!--android:id="@id/expandable_text"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:textSize="16sp"-->
+            <!--android:textColor="#666666" />-->
+
+        <!--<TextView-->
+            <!--android:id="@id/expand_collapse"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:textSize="16sp"-->
+            <!--android:textColor="#666666"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--/>-->
+
+    </com.example.admin.testcoordinatorlayoutfresh.view.ExpandableTextView2>
+
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/re"
+        android:minHeight="180dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </android.support.v7.widget.RecyclerView>
+
+</LinearLayout>
