@@ -23,6 +23,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".DialogActivity"></activity>
+        <activity android:name=".PinActivity"></activity>
     </application>
 
 </manifest>

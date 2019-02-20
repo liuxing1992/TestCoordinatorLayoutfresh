@@ -23,4 +23,7 @@ public class HomeActivity extends AppCompatActivity {
     public void toDialog(View view){
         startActivity(new Intent(this , DialogActivity.class));
     }
+    public void toPin(View view){
+        startActivity(new Intent(this , PinActivity.class));
+    }
 }

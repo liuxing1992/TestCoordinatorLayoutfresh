@@ -35,33 +35,51 @@
             <android.support.v7.widget.Toolbar
                 android:id="@+id/toolbar"
                 android:layout_width="match_parent"
-                android:layout_height="?android:attr/actionBarSize"
+                android:layout_height="45dp"
                 app:layout_collapseMode="pin"
+                app:contentInsetLeft="0dp"
+                app:contentInsetStart="0dp"
                 app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
                 app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
                 app:titleTextColor="@android:color/white">
+
+                <TextView
+                    android:text="asas"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
 
 
             </android.support.v7.widget.Toolbar>
 
 
-            <android.support.design.widget.TabLayout
-                android:id="@+id/tab_net_music"
-                android:layout_width="match_parent"
-                android:layout_height="45dp"
-                android:layout_gravity="bottom"
-                app:layout_collapseMode="pin"
-                app:tabTextColor="#666666"
-                app:tabSelectedTextColor="@color/colorAccent"
-                app:layout_scrollFlags="scroll|enterAlways"
-                app:tabBackground="?selectableItemBackgroundBorderless"
-                android:background="#dd9906"
-                >
-            </android.support.design.widget.TabLayout>
+            <!--<android.support.design.widget.TabLayout-->
+                <!--android:id="@+id/tab_net_music"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="45dp"-->
+                <!--android:layout_gravity="bottom"-->
+                <!--app:layout_collapseMode="pin"-->
+                <!--app:tabTextColor="#666666"-->
+                <!--app:tabSelectedTextColor="@color/colorAccent"-->
+                <!--app:layout_scrollFlags="scroll|enterAlways"-->
+                <!--app:tabBackground="?selectableItemBackgroundBorderless"-->
+                <!--android:background="#dd9906"-->
+                <!--&gt;-->
+            <!--</android.support.design.widget.TabLayout>-->
 
         </android.support.design.widget.CollapsingToolbarLayout>
 
 
+        <android.support.design.widget.TabLayout
+            android:id="@+id/tab_net_music"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_gravity="bottom"
+            app:tabTextColor="#666666"
+            app:tabSelectedTextColor="@color/colorAccent"
+            app:tabBackground="?selectableItemBackgroundBorderless"
+            android:background="#dd9906"
+            >
+        </android.support.design.widget.TabLayout>
 
     </android.support.design.widget.AppBarLayout>
 

@@ -25,9 +25,9 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         mToolbarCommon = findViewById(R.id.toolbar);
-        mCollapsingToolbarLayout = findViewById(R.id.coll);
-        mCollapsingToolbarLayout.setTitle("我都");
-        setTitlePadding();
+//        mCollapsingToolbarLayout = findViewById(R.id.coll);
+//        mCollapsingToolbarLayout.setTitle("我都");
+//        setTitlePadding();
         mViewPager = findViewById(R.id.viewpager);
         mTabLayout = findViewById(R.id.tab_net_music);
         setViewpager();
