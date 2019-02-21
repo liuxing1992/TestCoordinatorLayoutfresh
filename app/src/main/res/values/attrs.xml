@@ -1,17 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!--<declare-styleable name="ExpandableTextView">-->
-        <!--<attr name="maxCollapsedLines" format="integer"/>-->
-        <!--<attr name="animDuration" format="integer"/>-->
-        <!--<attr name="animAlphaStart" format="float"/>-->
-        <!--<attr name="expandIndicator" format="reference"/>-->
-        <!--<attr name="collapseIndicator" format="reference"/>-->
-        <!--<attr name="expandToggleType" format="enum">-->
-            <!--<enum name="ImageButton" value="0"/>-->
-            <!--<enum name="TextView" value="1"/>-->
-        <!--</attr>-->
-        <!--<attr name="expandableTextId" format="reference"/>-->
-        <!--<attr name="expandCollapseToggleId" format="reference"/>-->
-        <!--<attr name="expandToggleOnTextClick" format="boolean"/>-->
-    <!--</declare-styleable>-->
+
+    <declare-styleable name="TabLayout">
+        <attr name="indicatorStartColor" format="color|reference"/>
+        <attr name="indicatorEndColor" format="color|reference"/>
+        <!--<attr name="indicatorMarginStart" format="dimension|reference"/>-->
+        <!--<attr name="indicatorMarginEnd" format="dimension|reference"/>-->
+        <attr name="indicatorMarginBottom" format="dimension|reference"/>
+        <attr name="indicatorWidth" format="dimension|reference"/>
+        <attr name="indicatorDrawRound" format="boolean"/>
+        <attr name="indicatorTransAnimation" format="boolean"/>
+    </declare-styleable>
+
 </resources>

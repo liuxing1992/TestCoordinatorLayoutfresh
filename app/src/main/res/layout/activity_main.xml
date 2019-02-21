@@ -52,34 +52,39 @@
             </android.support.v7.widget.Toolbar>
 
 
-            <!--<android.support.design.widget.TabLayout-->
-                <!--android:id="@+id/tab_net_music"-->
-                <!--android:layout_width="match_parent"-->
-                <!--android:layout_height="45dp"-->
-                <!--android:layout_gravity="bottom"-->
-                <!--app:layout_collapseMode="pin"-->
-                <!--app:tabTextColor="#666666"-->
-                <!--app:tabSelectedTextColor="@color/colorAccent"-->
-                <!--app:layout_scrollFlags="scroll|enterAlways"-->
-                <!--app:tabBackground="?selectableItemBackgroundBorderless"-->
-                <!--android:background="#dd9906"-->
-                <!--&gt;-->
-            <!--</android.support.design.widget.TabLayout>-->
+            <android.support.design.widget.TabLayout
+                android:id="@+id/tab_net_music2"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:layout_gravity="bottom"
+                app:layout_collapseMode="pin"
+                app:tabTextColor="#666666"
+                app:tabSelectedTextColor="@color/colorAccent"
+                app:layout_scrollFlags="scroll|enterAlways"
+                app:tabBackground="?selectableItemBackgroundBorderless"
+                android:background="#dd9906"
+                >
+            </android.support.design.widget.TabLayout>
 
         </android.support.design.widget.CollapsingToolbarLayout>
 
 
-        <android.support.design.widget.TabLayout
+        <com.example.admin.testcoordinatorlayoutfresh.tab.TabLayout
             android:id="@+id/tab_net_music"
             android:layout_width="match_parent"
             android:layout_height="45dp"
             android:layout_gravity="bottom"
             app:tabTextColor="#666666"
             app:tabSelectedTextColor="@color/colorAccent"
-            app:tabBackground="?selectableItemBackgroundBorderless"
-            android:background="#dd9906"
+            app:indicatorWidth="30dp"
+            app:tabIndicatorHeight="4dp"
+            app:indicatorMarginBottom="3dp"
+            app:indicatorStartColor="@color/colorGolden"
+            app:indicatorEndColor="@color/colorGolden"
+            app:tabBackground="@color/colorWhite"
+            app:indicatorDrawRound="true"
             >
-        </android.support.design.widget.TabLayout>
+        </com.example.admin.testcoordinatorlayoutfresh.tab.TabLayout>
 
     </android.support.design.widget.AppBarLayout>
 

@@ -3,7 +3,6 @@ package com.example.admin.testcoordinatorlayoutfresh;
 import android.content.Context;
 import android.support.annotation.Nullable;
 import android.support.design.widget.CollapsingToolbarLayout;
-import android.support.design.widget.TabLayout;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
@@ -13,12 +12,15 @@ import android.os.Bundle;
 import android.util.TypedValue;
 import android.view.View;
 
+import com.example.admin.testcoordinatorlayoutfresh.tab.TabLayout;
+
 public class MainActivity extends AppCompatActivity {
 
     private android.support.v7.widget.Toolbar mToolbarCommon;
     private CollapsingToolbarLayout mCollapsingToolbarLayout;
     private ViewPager mViewPager ;
-    private TabLayout mTabLayout;
+    private TabLayout mTabLayout  ;
+    private android.support.design.widget.TabLayout mTabLayout2  ;
     private MyPagerAdapter mMyPagerAdapter;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -27,9 +29,10 @@ public class MainActivity extends AppCompatActivity {
         mToolbarCommon = findViewById(R.id.toolbar);
 //        mCollapsingToolbarLayout = findViewById(R.id.coll);
 //        mCollapsingToolbarLayout.setTitle("我都");
-//        setTitlePadding();
+        setTitlePadding();
         mViewPager = findViewById(R.id.viewpager);
         mTabLayout = findViewById(R.id.tab_net_music);
+        mTabLayout2 = findViewById(R.id.tab_net_music2);
         setViewpager();
     }
 
@@ -38,6 +41,7 @@ public class MainActivity extends AppCompatActivity {
         mMyPagerAdapter = new MyPagerAdapter(getSupportFragmentManager());
         mViewPager.setAdapter(mMyPagerAdapter);
         mTabLayout.setupWithViewPager(mViewPager);
+        mTabLayout2.setupWithViewPager(mViewPager);
 
 
     }
